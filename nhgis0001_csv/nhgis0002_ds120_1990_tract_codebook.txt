@@ -1,0 +1,112 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0002_ds120_1990_tract'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1990
+Geographic level: Census Tract (by State--County)
+Dataset:          1990 Census: STF 1 - 100% Data
+   NHGIS Code:    1990_STF1
+   NHGIS ID:      ds120
+Breakdown(s):     Geographic Subarea:
+                    Total area (00)
+ 
+Tables:
+ 
+1. Persons
+   Universe:    Persons
+   Source Code: NP1
+   NHGIS Code:  ET1
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join match code
+        YEAR:        Datafile year
+        NATION:      Nation Name
+        NATIONA:     Nation Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        RESERVTNA:   American Indian Areas Code
+        TRUSTA:      American Indian Reservation [trust lands only] Code
+        RES_ONLYA:   American Indian Reservation [excluding trust lands] Code
+        AIANHH:      American Indian Area/Alaska Native Area/Hawaiian Home Land Name
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_TRST:    Reservation/Trust Lands Name
+        RES_TRSTA:   Reservation/Trust Lands Code
+        BLOCKA:      Block Code
+        BLCK_GRPA:   Block Group Code
+        TRACTA:      Census Tract Code
+        CDA:         Congressional District Code
+        C_CITYA:     Consolidated City Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        CTY_SUBA:    County Subdivision Code
+        DIVISIONA:   Division Code
+        MSA_CMSA:    Metropolitan Statistical Area/Consolidated Metropolitan Statistical Area Name
+        MSA_CMSAA:   Metropolitan Statistical Area/Consolidated Metropolitan Statistical Area Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        PMSA:        Primary Metropolitan Statistical Area Name
+        PMSAA:       Primary Metropolitan Statistical Area Code
+        REGIONA:     Region Code
+        STATE:       State Name
+        STATEA:      State Code
+        URBRURAL:    Urban/Rural Name
+        URBRURALA:   Urban/Rural Code
+        URB_AREA:    Urban Area Name
+        URB_AREAA:   Urban Area Code
+        ANPSADPI:    Area Name/PSAD Term/Part Indicator
+ 
+Breakdown:
+    Geographic Subarea: Total area (00)
+ 
+    Table 1:     Persons
+    Universe:    Persons
+    Source Code: NP1
+    NHGIS Code:  ET1
+        ET1001:      Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+	  Minnesota Population Center. National Historical Geographic Information
+	  System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+	  The College of William and Mary and the Minnesota Population Center.
+	  School Attendance Boundary Information System (SABINS): Version 1.0.
+	  Minneapolis, MN: University of Minnesota 2011.
+
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    http://www.nhgis.org
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

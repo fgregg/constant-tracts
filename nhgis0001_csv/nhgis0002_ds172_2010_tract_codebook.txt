@@ -1,0 +1,127 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0002_ds172_2010_tract'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2010
+Geographic level: Census Tract (by State--County)
+Dataset:          2010 Census: SF 1a - P & H Tables [Blocks & Larger Areas]
+   NHGIS Code:    2010_SF1a
+   NHGIS ID:      ds172
+Breakdown(s):     Geographic Subarea:
+                    Total area (00)
+ 
+Tables:
+ 
+1. Total Population
+   Universe:    Total Population
+   Source Code: P1
+   NHGIS Code:  H7V
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join match code
+        YEAR:        Datafile year
+        NATION:      Nation Name
+        NATIONA:     Nation Code
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        BLOCKA:      Block Code
+        CONCITA:     Consolidated City Code
+        AIANHH:      American Indian Area/Alaska Native Area/Hawaiian Home Land Name
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Reservation with Trust Lands; reservation only Code
+        TRUSTA:      American Indian Reservation with Trust Lands; trust lands only Code
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        TTRACTA:     Tribal Census Tract Code
+        TBLKGRPA:    Tribal Block Group Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSA:        Metropolitan Statistical Area/Micropolitan Statistical Area Name
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        METDIV:      Metropolitan Division Name
+        METDIVA:     Metropolitan Division Code
+        CSA:         Combined Statistical Area Name
+        CSAA:        Combined Statistical Area Code
+        NECTA:       New England City and Town Area Name
+        NECTAA:      New England City and Town Area Code
+        NECTADIV:    NECTA Division Name
+        NECTADIVA:   NECTA Division Code
+        CNECTA:      Combined New England City and Town Area Name
+        CNECTAA:     Combined New England City and Town Area Code
+        CDA:         Congressional District (111th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit Zip Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELM:       School District (Elementary)/Remainder Name
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSEC:       School District (Secondary)/Remainder Name
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNI:       School District (Unified)/Remainder Name
+        SDUNIA:      School District (Unified)/Remainder Code
+        NAME:        Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator
+        SABINSA:     School Attendance Area Code
+ 
+Breakdown:
+    Geographic Subarea: Total area (00)
+ 
+    Table 1:     Total Population
+    Universe:    Total Population
+    Source Code: P1
+    NHGIS Code:  H7V
+        H7V001:      Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+	  Minnesota Population Center. National Historical Geographic Information
+	  System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+	  The College of William and Mary and the Minnesota Population Center.
+	  School Attendance Boundary Information System (SABINS): Version 1.0.
+	  Minneapolis, MN: University of Minnesota 2011.
+
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    http://www.nhgis.org
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

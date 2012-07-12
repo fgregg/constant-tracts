@@ -1,0 +1,82 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0002_ds76_1940_tract'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1940
+Geographic level: Census Tract (by State--County)
+Dataset:          1940 Census: Population & Housing Data [Tracts & NY Health Areas: Major Cities & Surrounds]
+   NHGIS Code:    1940_tPH_Major
+   NHGIS ID:      ds76
+ 
+Tables:
+ 
+1. Population
+   Universe:    Persons
+   Source Code: NT1
+   NHGIS Code:  BUB
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join match code
+    YEAR:        Datafile year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTY:      County Name
+    COUNTYA:     County Code
+    PRETRACTA:   Census Tract Prefix Code
+    TRACTA:      Census Tract Code
+    POSTTRCTA:   Census Tract Suffix Code
+    AREANAME:    Area Name
+ 
+Table 1:     Population
+Universe:    Persons
+Source Code: NT1
+NHGIS Code:  BUB
+    BUB001:      Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+	  Minnesota Population Center. National Historical Geographic Information
+	  System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+	  The College of William and Mary and the Minnesota Population Center.
+	  School Attendance Boundary Information System (SABINS): Version 1.0.
+	  Minneapolis, MN: University of Minnesota 2011.
+
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    http://www.nhgis.org
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

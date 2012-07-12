@@ -1,0 +1,113 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0002_ds146_2000_tract'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2000
+Geographic level: Census Tract (by State--County)
+Dataset:          2000 Census: SF 1a - 100% Data [Areas Larger Than Block Groups]
+   NHGIS Code:    2000_SF1a
+   NHGIS ID:      ds146
+Breakdown(s):     Geographic Subarea:
+                    Total area (00)
+ 
+Tables:
+ 
+1. Total Population
+   Universe:    Persons
+   Source Code: NP001A
+   NHGIS Code:  FL5
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join match code
+        YEAR:        Datafile year
+        NATION:      Nation Name
+        NATIONA:     Nation Code
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        CTY_SUBA:    County Subdivision Code
+        PLACE:       Place Name
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLCK_GRPA:   Block Group Code
+        C_CITYA:     Consolidated City Code
+        AIANHH:      American Indian Area/Alaska Native Area/Hawaiian Home Land Name
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Reservation [excluding trust lands] Code
+        TRUSTA:      American Indian Reservation [trust lands only] Code
+        TRBL_SUBA:   Tribal Subdivision Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        MSA_CMSA:    Metropolitan Statistical Area/Consolidated Metropolitan Statistical Area Name
+        MSA_CMSAA:   Metropolitan Statistical Area/Consolidated Metropolitan Statistical Area Code
+        PMSA:        Primary Metropolitan Statistical Area Name
+        PMSAA:       Primary Metropolitan Statistical Area Code
+        NECMA:       New England County Metropolitan Area Name
+        NECMAA:      New England County Metropolitan Area Code
+        URB_AREA:    Urban Area Name
+        URB_AREAA:   Urban Area Code
+        CD106A:      Congressional District (106th) Code
+        CD108A:      Congressional District (108th) Code
+        CD109A:      Congressional District (109th) Code
+        ZIP3A:       3-Digit Zip Code Tabulation Area Code
+        ZCTAA:       5-Digit Zip Code Tabulation Area Code
+        NAME:        Area Name-Legal/Statistical Area Description (LSAD) Term-Part Indicator
+ 
+Breakdown:
+    Geographic Subarea: Total area (00)
+ 
+    Table 1:     Total Population
+    Universe:    Persons
+    Source Code: NP001A
+    NHGIS Code:  FL5
+        FL5001:      Total
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+	  Minnesota Population Center. National Historical Geographic Information
+	  System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+	  The College of William and Mary and the Minnesota Population Center.
+	  School Attendance Boundary Information System (SABINS): Version 1.0.
+	  Minneapolis, MN: University of Minnesota 2011.
+
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    http://www.nhgis.org
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu
